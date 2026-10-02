@@ -1,0 +1,6 @@
+# Executaveis gerados pela compilacao
+*.exe
+*.o
+*.out
+banco
+banco5
