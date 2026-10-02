@@ -1,8 +1,10 @@
 # Banco Enlace – Sistema de Registro e Gestão de Contas Bancárias
 
-Trabalho da disciplina **INF101 – Programação de Computadores I** (UNIVIÇOSA)
-Professores: Anderson R. Lamas e Vanderlea Queiroz
-Aluno: Raphael de Souza Azevedo
+   Trabalho da disciplina **INF101 – Programação de Computadores I** (UNIVIÇOSA)
+
+   **Professores:** Anderson R. Lamas e Vanderlea Queiroz
+
+   **Aluno:** Raphael de Souza Azevedo - 26338
 
 ## Etapa 1 – Variáveis e estruturas de controle
 
